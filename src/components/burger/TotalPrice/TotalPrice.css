@@ -1,0 +1,13 @@
+.TotalPrice{
+    align-items: center;
+    background-color: white; 
+    border: none;
+    box-shadow: 2px 1px rgb(119, 117, 117);
+    padding: 5px 2px;
+}
+.totalAmount{
+    color:black;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
